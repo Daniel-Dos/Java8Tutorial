@@ -1,3 +1,7 @@
+package com.tutorialspoint.java8.tester;
+
+import java.util.ArrayList;
+
 // Java 8 - OverView
 
 // ordenando em java 7 e ordenando em java 8
@@ -5,9 +9,8 @@
 
 
 import java.util.Collections;
-import java.util.List;
-import java.util.ArrayList;
 import java.util.Comparator;
+import java.util.List;
 
 public class Java8Tester {
   
