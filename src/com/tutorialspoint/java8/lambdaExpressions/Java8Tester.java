@@ -70,3 +70,15 @@ public class Java8Tester {
 
 
 }
+
+ 
+/**
+ * Following are important point to be considered using above example
+ * 
+ * . lambda expressions are used primarily to define inline implementation of a functional interface
+ * i.e. an interface with a single method only. In above example , we've used various types of lambda expressions
+ * to define opearation method of MathOperation interface . Then we defined implemenation of sayMessage of GreetingService.
+ * 
+ * . Lambda expression elliminates the need of anonumous class and gives a very simple yet powerful function programming capability to Java.
+ * 
+ */
