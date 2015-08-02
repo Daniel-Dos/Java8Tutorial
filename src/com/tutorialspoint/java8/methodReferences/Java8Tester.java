@@ -2,6 +2,7 @@ package com.tutorialspoint.java8.methodReferences;
 
 import java.awt.List;
 import java.util.ArrayList;
+import java.util.Comparator;
 
 /**
  * Method reference helps to point to method by their name. A method reference is described using "::"
@@ -25,6 +26,7 @@ public class Java8Tester {
 		names.add("Naresh");
 		names.add("Kalpesh");
 		
+	
 		names.forEach(System.out::println);
 	}
 
